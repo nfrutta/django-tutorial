@@ -1,5 +1,5 @@
-![rectangle_large_type_2_21d9c316b98f6ea46ce2898d13a7bd81](https://user-images.githubusercontent.com/12977376/80301351-a3ded280-87de-11ea-879d-5e4df8505ad9.png)
 
+<img src="https://user-images.githubusercontent.com/12977376/80301351-a3ded280-87de-11ea-879d-5e4df8505ad9.png" width="50%">
 
 # I’ll give it a try Django.
 
